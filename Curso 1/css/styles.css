@@ -5,3 +5,7 @@ body { background-color: f5f5f5; }
 a { text-decoration: none; }
 ul { list-style: none; }
 img { max-width: 100%; }
+
+/*============= HEADER =============*/
+.cabecalho { width: 100%; float: left; padding: 3% 4%; }
+.logo { font-size: 0; width: 56px; height: 56px; float: left; background: url(../images/logo-mobile.png) center center/56px no-repeat; }
